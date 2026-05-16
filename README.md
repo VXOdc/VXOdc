@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>Noah Ly</h1>
 
@@ -7,9 +5,9 @@
   
   <br><br>
 
-  <a href="https://noahly.vercel.app"><img src="https://img.shields.io/badge/website-noahly.dev-24292e?style=flat-square" alt="Website"></a>
+  <a href="https://noahly.vercel.app"><img src="https://img.shields.io/badge/website-noahly.vercel.app-24292e?style=flat-square" alt="Website"></a>
   <a href="https://github.com/noahly"><img src="https://img.shields.io/badge/github-noahly-24292e?style=flat-square" alt="GitHub"></a>
-  <a href="mailto:lynoah18@gmail.com"><img src="https://img.shields.io/badge/email-contact-24292e?style=flat-square" alt="Email"></a>
+  <a href="mailto:lynoah18@gmail.com"><img src="https://img.shields.io/badge/email-lynoah18@gmail.com-24292e?style=flat-square" alt="Email"></a>
 
 </div>
 
@@ -27,20 +25,20 @@ A full-featured local-first intelligent study platform engineered to minimize st
 A dark-first interactive digital portfolio structured to mirror historical system shells. Features a fully functional, isolated, and responsive terminal interface parsing core custom navigation utilities, embedded animation routines, and clean modular UI frames.
 *React · TypeScript · Tailwind CSS · Vite · Lucide Icons*
 
-### **Robotics & Embedded Hardware Engineering**
-Designing and testing localized physical controllers and firmware. Currently focused on translating software physics engine pipelines into mechanical execution, working with microcontrollers, hardware control loops, and learning CAD environments for functional structural design.
-*C/C++ · ESP32 · Arduino · Circuits · Prototyping*
+### **Robotics, Embedded Hardware & Systems Assembly**
+Designing physical controllers and custom hardware setups. Focus spans translating software physics pipelines into mechanical execution with microcontrollers, learning CAD environments for structural prototypes, and assembling custom high-performance computer hardware and gaming rigs.
+*C/C++ · ESP32 · Arduino · Circuits · PC Architecture & Assembly*
 
 ---
 
 <div align="center">
   
-  <code>javascript</code> &nbsp; <code>typescript</code> &nbsp; <code>python</code> &nbsp; <code>c / c++</code> &nbsp; <code>react</code> &nbsp; <code>tailwind css</code> &nbsp; <code>node.js</code> &nbsp; <code>supabase</code> &nbsp; <code>vector math</code> &nbsp; <code>ai apis</code> &nbsp; <code>arduino / esp32</code> &nbsp; <code>cad prototyping</code>
+  <code>javascript</code> &nbsp; <code>typescript</code> &nbsp; <code>python</code> &nbsp; <code>c / c++</code> &nbsp; <code>react</code> &nbsp; <code>tailwind css</code> &nbsp; <code>node.js</code> &nbsp; <code>supabase</code> &nbsp; <code>vector math</code> &nbsp; <code>ai apis</code> &nbsp; <code>arduino / esp32</code> &nbsp; <code>cad prototyping</code> &nbsp; <code>pc architecture</code>
 
 </div>
 
 ---
 
 <div align="center">
-  <h4>high school freshman · software developer · physics simulation engine builder · maker</h4>
+  <h4>high school freshman · software developer · physics simulation engine builder · hardware maker</h4>
 </div>
