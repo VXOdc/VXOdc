@@ -1,42 +1,72 @@
-
 <div align="center">
   <h1>Noah Ly</h1>
+  <p><strong>Intelligent Applications Developer & Physics Engine Builder</strong></p>
 
-  <code>ai applications</code> &nbsp; <code>physics engines</code> &nbsp; <code>simulation</code> &nbsp; <code>full-stack web</code> &nbsp; <code>robotics</code>
-  
-  <br><br>
-
-  <a href="https://noahly.vercel.app"><img src="https://img.shields.io/badge/website-noahly.vercel.app-24292e?style=flat-square" alt="Website"></a>
-  <a href="https://github.com/VXOdc"><img src="https://img.shields.io/badge/github-VXOdc-24292e?style=flat-square" alt="GitHub"></a>
-  <a href="mailto:lynoah18@gmail.com"><img src="https://img.shields.io/badge/email-lynoah18@gmail.com-24292e?style=flat-square" alt="Email"></a>
-
+  <p>
+    <a href="https://noahly.vercel.app"><img src="https://img.shields.io/badge/Production%20Portfolio-noahly.vercel.app-171717?style=flat-square" alt="Website"></a>
+    <a href="https://github.com/VXOdc"><img src="https://img.shields.io/badge/GitHub-VXOdc-171717?style=flat-square" alt="GitHub"></a>
+    <a href="mailto:lynoah18@gmail.com"><img src="https://img.shields.io/badge/Email-lynoah18@gmail.com-171717?style=flat-square" alt="Email"></a>
+  </p>
 </div>
 
 ---
 
-### **PhysicsOne** — Advanced 2D Rigid Body Physics Engine
-An impulse-based 2D physics sandbox built entirely from scratch in JavaScript. Features realistic collision resolution with angular momentum, broad-phase spatial hashing, sub-stepping for simulation stability, friction, and restitution. Includes real-time vector math canvas rendering, velocity caps, and complex pre-configured environments.
-*React · Canvas API · Vector Math · Performance Optimization*
+## Production Ecosystems & Core Engineering
 
-### **SyllaStudy AI** — All-in-One AI Student Productivity Suite
-A full-featured local-first intelligent study platform engineered to minimize student cognitive load. Integrates a conversational interface with Mistral/Gemini fallback routing, an automated rich-text note transformation framework (SmartNotes), automated test synthesis (QuizGen), and context optimization safeguards capped directly at the database layer.
-*React · Supabase · Node.js · Mistral & Gemini APIs · PostgreSQL*
-
-
-### **Robotics, Embedded Hardware & Systems Assembly**
-Designing physical controllers and custom hardware setups. Focus spans translating software physics pipelines into mechanical execution with microcontrollers, learning CAD environments for structural prototypes, and assembling custom high-performance computer hardware and gaming rigs.
-*C/C++ · ESP32 · Arduino · Circuits · PC Architecture & Assembly*
-
----
+### <a href="https://physicsone.vercel.app/">**PhysicsOne**</a> — Deterministic 2D Rigid Body Physics Engine
+A real-time computational physics framework engineered completely from the ground up to address mathematical and architectural challenges in simulation without reliance on pre-built middleware.
 
 <div align="center">
-  
-  <code>javascript</code> &nbsp; <code>typescript</code> &nbsp; <code>python</code> &nbsp; <code>c / c++</code> &nbsp; <code>react</code> &nbsp; <code>tailwind css</code> &nbsp; <code>node.js</code> &nbsp; <code>supabase</code> &nbsp; <code>vector math</code> &nbsp; <code>ai apis</code> &nbsp; <code>arduino / esp32</code> &nbsp; <code>cad prototyping</code> &nbsp; <code>pc architecture</code>
-
+  <a href="https://physicsone.vercel.app/">
+    <img src="https://i.postimg.cc/ZBB7D8Kx/Screenshot-2026-04-19-at-9-38-06-PM.png" alt="PhysicsOne Simulation Render" width="100%" style="border-radius: 8px;">
+  </a>
 </div>
 
+* **Geometric Collision Detection:** Calculates intersections using the Separating Axis Theorem (SAT) for convex hull verification, real-time penetration depths, surface contact point manifold generation, and continuous dynamic normalization.
+* **Rigid Body Dynamics:** Resolves physical interactions using semi-implicit Euler integration for velocity stability, exact mass matrix distribution, angular inertia tensors, and momentum-preserving instantaneous impulse resolution.
+* **Engineering Architecture:** Eliminates structural drift, joint jitter, boundary tunneling, and floating-point expansion across shifting global and local coordinate hierarchies through a strict mathematical data pipeline.
+
+*Core Stack: JavaScript · Canvas API · Vector Math · Performance Optimization*
+
+---
+
+### <a href="https://syllastudyai.vercel.app/">**SyllaStudy AI**</a> — High-Throughput Student Productivity Suite
+A full-featured, local-first intelligent student application architected to orchestrate low-latency data transformations and optimize cognitive load.
+
+<div align="center">
+  <a href="https://syllastudyai.vercel.app/">
+    <img src="https://i.postimg.cc/TKfnzd1j/Gemini-Generated-Image-aocx43aocx43aocx-removebg-preview.png" alt="SyllaStudy AI Component Architecture" width="45%">
+  </a>
+</div>
+
+* **Intelligent Routing:** Integrates a dynamic orchestration tier utilizing dedicated **Mistral AI** models with automated fallback routing to **Google Gemini** APIs for high-availability context processing.
+* **Automation Frameworks:** Powers automated test synthesis engines (QuizGen) alongside deep rich-text extraction and structural note compilation engines (SmartNotes).
+* **Database Constraints:** Enforces strict execution guardrails and token safeguards capped directly at the PostgreSQL layer to ensure backend stability and predictable storage budgets.
+
+*Core Stack: React · Supabase (PostgreSQL) · Node.js · Mistral API · Gemini API*
+
+---
+
+### **Systems, Hardware & Embedded Architecture**
+Translating highly complex software pipelines and mathematical models directly into structural mechanical execution.
+
+* **Embedded Systems:** Designing low-latency firmware implementations using C/C++ architectures for ESP32 and Arduino microcontrollers.
+* **Mechanical Synthesis:** Developing custom physical controllers and functional hardware housings within CAD prototyping environments.
+* **Compute Platforms:** Designing and assembling optimized, high-performance physical computer hardware topologies.
+
+---
+
+## Technical Domain Matrix
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Python` `C` `C++` |
+| **Frameworks & Databases** | `React` `Tailwind CSS` `Node.js` `Supabase` `PostgreSQL` |
+| **Core AI Infrastructure** | <img src="https://img.shields.io/badge/Mistral%20AI-orange?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral AI"> <img src="https://img.shields.io/badge/Google%20Gemini-blue?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"> |
+| **Systems & Hardware** | `Vector Math` `Arduino` `ESP32` `CAD Prototyping` `PC Architecture` |
+
 ---
 
 <div align="center">
-  <h4>high school freshman · software developer · physics simulation engine builder · hardware maker</h4>
+  <sub>High School Freshman • Software Developer • Physics Simulation Engine Builder • Hardware Maker</sub>
 </div>
