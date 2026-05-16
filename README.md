@@ -17,9 +17,11 @@
 A real-time computational physics framework engineered completely from the ground up to address mathematical and architectural challenges in simulation without reliance on pre-built middleware.
 
 <div align="center">
+  <br>
   <a href="https://physicsone.vercel.app/">
-    <img src="https://i.postimg.cc/ZBB7D8Kx/Screenshot-2026-04-19-at-9-38-06-PM.png" alt="PhysicsOne Simulation Render" width="50%" style="border-radius: 8px;">
+    <img src="https://i.postimg.cc/TKfnzd1j/Gemini-Generated-Image-aocx43aocx43aocx-removebg-preview.png" alt="PhysicsOne Engine Icon" width="60">
   </a>
+  <br><br>
 </div>
 
 * **Geometric Collision Detection:** Calculates intersections using the Separating Axis Theorem (SAT) for convex hull verification, real-time penetration depths, surface contact point manifold generation, and continuous dynamic normalization.
@@ -36,7 +38,7 @@ A full-featured, local-first intelligent student application architected to orch
 <div align="center">
   <br>
   <a href="https://syllastudyai.vercel.app/">
-    <img src="https://i.postimg.cc/TKfnzd1j/Gemini-Generated-Image-aocx43aocx43aocx-removebg-preview.png" alt="SyllaStudy AI Component Architecture" width="180">
+    <img src="https://i.postimg.cc/ZBB7D8Kx/Screenshot-2026-04-19-at-9-38-06-PM.png" alt="SyllaStudy AI App Icon" width="60" style="border-radius: 12px;">
   </a>
   <br><br>
 </div>
