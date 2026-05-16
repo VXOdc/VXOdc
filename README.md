@@ -56,7 +56,7 @@ Translating highly complex software pipelines and mathematical models directly i
 
 * **Embedded Systems:** Designing low-latency firmware implementations using C/C++ architectures for ESP32 and Arduino microcontrollers.
 * **Mechanical Synthesis:** Developing custom physical controllers and functional hardware housings within CAD prototyping environments.
-* **Compute Platforms:** Designing and assembling optimized, high-performance physical computer hardware topologies.
+* **Hardware Optimization:** Designing high-performance hardware topologies, engineering multi-stage thermal dissipation curves, and overclocking microarchitectures to extract maximum bare-metal compute performance.
 
 ---
 
