@@ -24,16 +24,16 @@ A real-time computational physics framework engineered completely from the groun
   <br><br>
 </div>
 
-* **Geometric Collision Detection:** Calculates intersections using the Separating Axis Theorem (SAT) for convex hull verification, real-time penetration depths, surface contact point manifold generation, and continuous dynamic normalization.
-* **Rigid Body Dynamics:** Resolves physical interactions using semi-implicit Euler integration for velocity stability, exact mass matrix distribution, angular inertia tensors, and momentum-preserving instantaneous impulse resolution.
-* **Engineering Architecture:** Eliminates structural drift, joint jitter, boundary tunneling, and floating-point expansion across shifting global and local coordinate hierarchies through a strict mathematical data pipeline.
+* **Geometric Collision Detection:** Calculates intersections using the Separating Axis Theorem  for convex hull verification  real time penetration depths  surface contact point manifold generation  and continuous dynamic normalization 
+* **Rigid Body Dynamics:** Resolves physical interactions using semi implicit Euler integration for velocity stability, exact mass matrix distribution, angular inertia tensors, and momentum-preserving instantaneous impulse resolution 
+* **Engineering Architecture:** Eliminates structural drift  joint jitter  boundary tunneling  and floating-point expansion across shifting global and local coordinate hierarchies through a strict mathematical data pipeline
 
 *Core Stack: JavaScript · Canvas API · Vector Math · Performance Optimization*
 
 ---
 
 ### <a href="https://syllastudyai.vercel.app/">**SyllaStudy AI**</a> — High-Throughput Student Productivity Suite
-A full-featured, local-first intelligent student application architected to orchestrate low-latency data transformations and optimize cognitive load.
+A full-featured, local-first intelligent student application architected to orchestrate lown latency data transformations and optimize cognitive load.
 
 <div align="center">
   <br>
@@ -54,9 +54,9 @@ A full-featured, local-first intelligent student application architected to orch
 ### **Systems, Hardware & Embedded Architecture**
 Translating highly complex software pipelines and mathematical models directly into structural mechanical execution.
 
-* **Embedded Systems:** Designing low-latency firmware implementations using C/C++ architectures for ESP32 and Arduino microcontrollers.
-* **Mechanical Synthesis:** Developing custom physical controllers and functional hardware housings within CAD prototyping environments.
-* **Hardware Optimization:** Designing high-performance hardware topologies, engineering multi-stage thermal dissipation curves, and overclocking microarchitectures to extract maximum bare-metal compute performance.
+* **Embedded Systems:** Designing low latency firmware implementations using C/C++ architectures for ESP32 and Arduino microcontrollers
+* **Mechanical Synthesis:** Developing custom physical controllers and functional hardware housings within CAD prototyping environments
+* **Hardware Optimization:** Designing high-performance hardware topologies, engineering multi-stage thermal dissipation curves, and overclocking microarchitectures to extract maximum bare-metal compute performance 
 
 ---
 
