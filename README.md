@@ -1,4 +1,3 @@
-# github.com/VXOdc/VXOdc
 
 <div align="center">
   <h1>Noah Ly</h1>
