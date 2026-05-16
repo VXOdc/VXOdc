@@ -18,7 +18,7 @@ A real-time computational physics framework engineered completely from the groun
 
 <div align="center">
   <a href="https://physicsone.vercel.app/">
-    <img src="https://i.postimg.cc/ZBB7D8Kx/Screenshot-2026-04-19-at-9-38-06-PM.png" alt="PhysicsOne Simulation Render" width="100%" style="border-radius: 8px;">
+    <img src="https://i.postimg.cc/ZBB7D8Kx/Screenshot-2026-04-19-at-9-38-06-PM.png" alt="PhysicsOne Simulation Render" width="50%" style="border-radius: 8px;">
   </a>
 </div>
 
@@ -34,9 +34,11 @@ A real-time computational physics framework engineered completely from the groun
 A full-featured, local-first intelligent student application architected to orchestrate low-latency data transformations and optimize cognitive load.
 
 <div align="center">
+  <br>
   <a href="https://syllastudyai.vercel.app/">
-    <img src="https://i.postimg.cc/TKfnzd1j/Gemini-Generated-Image-aocx43aocx43aocx-removebg-preview.png" alt="SyllaStudy AI Component Architecture" width="45%">
+    <img src="https://i.postimg.cc/TKfnzd1j/Gemini-Generated-Image-aocx43aocx43aocx-removebg-preview.png" alt="SyllaStudy AI Component Architecture" width="180">
   </a>
+  <br><br>
 </div>
 
 * **Intelligent Routing:** Integrates a dynamic orchestration tier utilizing dedicated **Mistral AI** models with automated fallback routing to **Google Gemini** APIs for high-availability context processing.
