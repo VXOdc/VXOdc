@@ -22,9 +22,6 @@ An impulse-based 2D physics sandbox built entirely from scratch in JavaScript. F
 A full-featured local-first intelligent study platform engineered to minimize student cognitive load. Integrates a conversational interface with Mistral/Gemini fallback routing, an automated rich-text note transformation framework (SmartNotes), automated test synthesis (QuizGen), and context optimization safeguards capped directly at the database layer.
 *React · Supabase · Node.js · Mistral & Gemini APIs · PostgreSQL*
 
-### **Noah_OS** — Interactive System Portfolio
-A dark-first interactive digital portfolio structured to mirror historical system shells. Features a fully functional, isolated, and responsive terminal interface parsing core custom navigation utilities, embedded animation routines, and clean modular UI frames.
-*React · TypeScript · Tailwind CSS · Vite · Lucide Icons*
 
 ### **Robotics, Embedded Hardware & Systems Assembly**
 Designing physical controllers and custom hardware setups. Focus spans translating software physics pipelines into mechanical execution with microcontrollers, learning CAD environments for structural prototypes, and assembling custom high-performance computer hardware and gaming rigs.
