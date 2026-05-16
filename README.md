@@ -1,3 +1,5 @@
+# github.com/VXOdc/VXOdc
+
 <div align="center">
   <h1>Noah Ly</h1>
 
@@ -6,7 +8,7 @@
   <br><br>
 
   <a href="https://noahly.vercel.app"><img src="https://img.shields.io/badge/website-noahly.vercel.app-24292e?style=flat-square" alt="Website"></a>
-  <a href="https://github.com/noahly"><img src="https://img.shields.io/badge/github-noahly-24292e?style=flat-square" alt="GitHub"></a>
+  <a href="https://github.com/VXOdc"><img src="https://img.shields.io/badge/github-VXOdc-24292e?style=flat-square" alt="GitHub"></a>
   <a href="mailto:lynoah18@gmail.com"><img src="https://img.shields.io/badge/email-lynoah18@gmail.com-24292e?style=flat-square" alt="Email"></a>
 
 </div>
