@@ -7,9 +7,9 @@
   
   <br><br>
 
-  <a href="https://noahly.dev"><img src="https://img.shields.io/badge/website-noahly.dev-24292e?style=flat-square" alt="Website"></a>
+  <a href="https://noahly.vercel.app"><img src="https://img.shields.io/badge/website-noahly.dev-24292e?style=flat-square" alt="Website"></a>
   <a href="https://github.com/noahly"><img src="https://img.shields.io/badge/github-noahly-24292e?style=flat-square" alt="GitHub"></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/email-contact-24292e?style=flat-square" alt="Email"></a>
+  <a href="mailto:lynoah18@gmail.com"><img src="https://img.shields.io/badge/email-contact-24292e?style=flat-square" alt="Email"></a>
 
 </div>
 
