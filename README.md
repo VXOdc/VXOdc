@@ -32,7 +32,7 @@ A real-time computational physics framework engineered completely from the groun
 
 ---
 
-### <a href="https://syllastudyai.vercel.app/">**SyllaStudy AI**</a> — High-Throughput Student Productivity Suite
+### <a href="https://syllastudyai.vercel.app/">**SyllaStudy AI**</a> —  Student Productivity Suite
 A full-featured, local-first intelligent student application architected to orchestrate lown latency data transformations and optimize cognitive load.
 
 <div align="center">
