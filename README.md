@@ -11,7 +11,7 @@
 
 ---
 
-## Production Ecosystems & Core Engineering
+## Product Ecosystems & Core Engineering
 
 ### <a href="https://neurocompute.vercel.app/">**NeuroCompute**</a> — Real-Time AI Vision in the Browser
 A browser-based AI vision system that captures live webcam frames and runs them through a multimodal vision model for instant structured scene analysis — engineered for continuous real-time stability, not just short demos.
@@ -33,7 +33,7 @@ A browser-based AI vision system that captures live webcam frames and runs them 
 ---
 
 ### <a href="https://physicsone.vercel.app/">**PhysicsOne**</a> — Deterministic 2D Rigid Body Physics Engine
-A real-time computational physics framework engineered completely from the ground up to address mathematical and architectural challenges in simulation without reliance on pre-built middleware.
+A real time computational physics framework engineered completely from the ground up to address mathematical and architectural challenges in simulation without reliance on pre-built middleware.
 
 <div align="center">
   <br>
