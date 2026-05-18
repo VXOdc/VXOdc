@@ -91,5 +91,5 @@ Translating highly complex software pipelines and mathematical models directly i
 ---
 
 <div align="center">
-  <sub>High School Freshman • Software Developer • Physics Simulation Engine Builder • Hardware Maker</sub>
+  <sub>High Schooler • Software Developer • Physics Simulation Engine Builder • Hardware Maker</sub>
 </div>
