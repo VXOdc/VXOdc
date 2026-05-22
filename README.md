@@ -32,6 +32,25 @@ A browser-based AI vision system that captures live webcam frames and runs them 
 
 ---
 
+### <a href="https://perceptacompute.vercel.app/">**PerceptaCompute**</a> — Autonomous AI Surveillance & Risk Telemetry Dashboard
+A real-time command-center interface architected like a continuous streaming asset to handle automated threat detection, spatial entity tracking, and algorithmic risk evaluation inside the browser.
+
+<div align="center">
+  <br>
+  <a href="https://perceptacompute.vercel.app/">
+    <img src="https://i.postimg.cc/43PfyZQB/Screenshot-2026-05-21-at-10-21-34-PM-removebg-preview.png" alt="PerceptaCompute Icon" width="60">
+  </a>
+  <br><br>
+</div>
+
+* **Temporal Tracking Engine:** Captures hardware video streams directly via native media APIs, passing compressed frame layers through a tracking pipeline (`tracker.ts`) that preserves object identity and spatial persistence across chronological frames.
+* **Heuristic Risk Evaluation:** Features a centralized algorithmic brain (`riskEngine.ts`) that runs deterministic rule sets over classification labels and confidence thresholds to instantly trigger system alarms, notification audio, and multi-tier warning states.
+* **Modular Dashboard State:** Orchestrates a completely decoupled UI layer including system health telemetry, automated activity feeds, and tracking logs, utilizing isolated components to eliminate performance bottlenecks during high-frequency data updates.
+
+*Core Stack: Next.js 15 · React 19 · TypeScript · Tailwind CSS · Custom Risk Heuristics*
+
+---
+
 ### <a href="https://physicsone.vercel.app/">**PhysicsOne**</a> — Deterministic 2D Rigid Body Physics Engine
 A real time computational physics framework engineered completely from the ground up to address mathematical and architectural challenges in simulation without reliance on pre-built middleware.
 
