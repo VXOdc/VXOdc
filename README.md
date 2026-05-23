@@ -98,7 +98,7 @@ Translating highly complex software pipelines and mathematical models directly i
 
 ---
 
-## Technical Domain Matrix
+## Technical Specs
 
 | Layer | Technologies |
 | :--- | :--- |
