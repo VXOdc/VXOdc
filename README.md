@@ -37,8 +37,8 @@ A real-time command-center interface architected like a continuous streaming ass
 
 <div align="center">
   <br>
-  <a href="https://perceptacompute.vercel.app/">
-    <img src="https://i.ibb.co/RGdSngX7/Screenshot-2026-05-27-at-7-54-08-PM-removebg-preview.png" alt="PerceptaCompute Icon" width="60">
+  <a href="https://perceptacomputeai.vercel.app/">
+    <img src="https://i.ibb.co/RGdSngX7/Screenshot-2026-05-27-at-7-54-08-PM-removebg-preview.png" alt="PerceptaCompute Icon" width="80">
   </a>
   <br><br>
 </div>
