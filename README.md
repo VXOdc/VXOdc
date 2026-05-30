@@ -13,7 +13,7 @@
 
 ## Product Ecosystems & Core Engineering
 
-### <a href="https://perceptacompute.vercel.app/">**PerceptaCompute**</a> — Autonomous AI Surveillance & Risk Telemetry Dashboard
+### <a href="https://perceptacompute.vercel.app/">**PerceptaCompute**</a> — Web dashboard that processes webcam frames and flags objects using a vision model
 A real-time command-center interface architected like a continuous streaming asset to handle automated threat detection, spatial entity tracking, and algorithmic risk evaluation inside the browser.
 
 <div align="center">
