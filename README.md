@@ -13,25 +13,6 @@
 
 ## Product Ecosystems & Core Engineering
 
-### <a href="https://neurocompute.vercel.app/">**NeuroCompute**</a> — Real-Time AI Vision in the Browser
-A browser-based AI vision system that captures live webcam frames and runs them through a multimodal vision model for instant structured scene analysis — engineered for continuous real-time stability, not just short demos.
-
-<div align="center">
-  <br>
-  <a href="https://neurocompute.vercel.app/">
-    <img src="https://i.postimg.cc/tTNpdvD7/Screenshot-2026-05-17-at-3-11-46-PM-removebg-preview.png" alt="NeuroCompute Icon" width="60">
-  </a>
-  <br><br>
-</div>
-
-* **Vision Pipeline:** Captures webcam frames at configurable intervals, compresses them adaptively, and routes them through the `pixtral-12b-2409` vision model via a `/api/detect` endpoint for structured JSON scene analysis including object detection, confidence ratings, and contextual summaries
-* **Adaptive Compression System:** JPEG quality dynamically adjusts based on rolling API latency — lower latency allows higher quality; higher latency reduces payload size — keeping the pipeline responsive under continuous load
-* **Non-Blocking Architecture:** A `processingRef` guard prevents overlapping API calls; the detection loop skips frames if a previous request is still in-flight, eliminating request pileups and unnecessary memory pressure
-
-*Core Stack: Next.js 14 · TypeScript · Mistral Pixtral · Web Speech API · MediaDevices API*
-
----
-
 ### <a href="https://perceptacompute.vercel.app/">**PerceptaCompute**</a> — Autonomous AI Surveillance & Risk Telemetry Dashboard
 A real-time command-center interface architected like a continuous streaming asset to handle automated threat detection, spatial entity tracking, and algorithmic risk evaluation inside the browser.
 
@@ -48,6 +29,25 @@ A real-time command-center interface architected like a continuous streaming ass
 * **Modular Dashboard State:** Orchestrates a completely decoupled UI layer including system health telemetry, automated activity feeds, and tracking logs, utilizing isolated components to eliminate performance bottlenecks during high-frequency data updates.
 
 *Core Stack: Next.js 15 · React 19 · TypeScript · Tailwind CSS · Custom Risk Heuristics*
+
+---
+
+### <a href="https://neurocompute.vercel.app/">**NeuroCompute**</a> — Real-Time AI Vision in the Browser
+A browser-based AI vision system that captures live webcam frames and runs them through a multimodal vision model for instant structured scene analysis — engineered for continuous real-time stability, not just short demos.
+
+<div align="center">
+  <br>
+  <a href="https://neurocompute.vercel.app/">
+    <img src="https://i.postimg.cc/tTNpdvD7/Screenshot-2026-05-17-at-3-11-46-PM-removebg-preview.png" alt="NeuroCompute Icon" width="60">
+  </a>
+  <br><br>
+</div>
+
+* **Vision Pipeline:** Captures webcam frames at configurable intervals, compresses them adaptively, and routes them through the `pixtral-12b-2409` vision model via a `/api/detect` endpoint for structured JSON scene analysis including object detection, confidence ratings, and contextual summaries
+* **Adaptive Compression System:** JPEG quality dynamically adjusts based on rolling API latency — lower latency allows higher quality; higher latency reduces payload size — keeping the pipeline responsive under continuous load
+* **Non-Blocking Architecture:** A `processingRef` guard prevents overlapping API calls; the detection loop skips frames if a previous request is still in-flight, eliminating request pileups and unnecessary memory pressure
+
+*Core Stack: Next.js 14 · TypeScript · Mistral Pixtral · Web Speech API · MediaDevices API*
 
 ---
 
