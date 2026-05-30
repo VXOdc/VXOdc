@@ -95,7 +95,7 @@ Translating highly complex software pipelines and mathematical models directly i
 ## Technical Specs
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VXOdc&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VXOdc&theme=tokyonight" alt="Top Languages" width="400" />
 <br><br>
 
 **Languages:** `JavaScript` `TypeScript` `Python` `C` `C++`<br><br>
