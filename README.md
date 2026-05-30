@@ -100,8 +100,8 @@ Translating highly complex software pipelines and mathematical models directly i
 
 ## Technical Specs
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VXOdc&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VXOdc&theme=tokyonight" alt="Top Languages" width="400" />
 </div>
 
 | Layer | Technologies |
